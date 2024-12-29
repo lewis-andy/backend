@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": null,
+    "password": null,
+    "database": "railway",
+    "host": "autorack.proxy.rlwy.net",
+    "port": "11343",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": null,
+    "password": null,
+    "database": "database_test",
+    "host": "autorack.proxy.rlwy.net",
+    "port": "11343",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": null,
+    "password": null,
+    "database": "database_production",
+    "host": "autorack.proxy.rlwy.net",
+    "port": "11343",
+    "dialect": "postgres"
+  }
+}
